@@ -5,6 +5,8 @@ https://goldinlocks.github.io/Introduction-to-A-B-testing-in-python/#Introductio
 
 https://github.com/tvasil/ab-testing-intro/blob/master/ironhack_presentation_20200213.ipynb
 
+https://www.optimizely.com/optimization-glossary/ab-testing/
+
 A/B testing is an experiment design and hypothesis testing is a statistical technique for making inferences from data.
 
 The distinction is between how you are collecting data, and how you analyze the results.
