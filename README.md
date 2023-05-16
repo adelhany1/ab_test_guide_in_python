@@ -6,9 +6,6 @@
 5. Validity Checks 
 6. Interpret Results  and Launch Decision 
 
-![image](https://github.com/adelhany1/ab_test_guide_in_python/assets/99558161/26e2f187-ff20-457c-82d0-3b6b53c1856e)
-
-
 This is a walkthrough of how to design and analyse an A/B test using Python.
 
 https://goldinlocks.github.io/Introduction-to-A-B-testing-in-python/#Introduction-to-A/B-testing
